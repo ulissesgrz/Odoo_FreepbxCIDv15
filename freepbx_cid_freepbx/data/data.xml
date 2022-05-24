@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo noupdate="1">
+    <record id="default_ribbon_name" model="ir.config_parameter">
+        <field name="key">partner_consult_custom.apikey</field>
+        <field name="value">123</field>
+    </record>
+</odoo>
